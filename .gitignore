@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+db.mysql
+*.pyo
+*.pyd
+.idea/
+django_env/
+media/
+static/
